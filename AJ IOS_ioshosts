@@ -1,2 +1,10 @@
-194.49.79.243 www.growtopia1.com
-194.49.79.243 www.growtopia2.com
+[General]
+
+[Rule]
+FINAL,DIRECT
+
+[Host]
+www.growtopia1.com = 194.49.79.77
+www.growtopia2.com = 194.49.79.77
+growtopia1.com = 194.49.79.77
+growtopia2.com = 194.49.79.77

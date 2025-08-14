@@ -1,4 +1,6 @@
 38.240.49.234 www.growtopia1.com
 38.240.49.234 www.growtopia2.com
+127.0.0.1 login.growtopiagame.com
+
 
 

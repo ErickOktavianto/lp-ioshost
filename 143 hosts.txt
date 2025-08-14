@@ -1,6 +1,7 @@
-38.240.49.181 www.growtopia1.com
-38.240.49.181 www.growtopia2.com
+172.82.64.52 www.growtopia1.com
+172.82.64.52 www.growtopia2.com
 127.0.0.1 login.growtopiagame.com
+
 
 
 

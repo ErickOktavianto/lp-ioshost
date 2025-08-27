@@ -1,0 +1,10 @@
+[General]
+
+[Rule]
+FINAL,DIRECT
+
+[Host]
+www.growtopia1.com = 38.240.49.199
+www.growtopia2.com = 38.240.49.199
+growtopia1.com = 38.240.49.199
+growtopia2.com = 38.240.49.199

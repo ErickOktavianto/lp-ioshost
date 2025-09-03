@@ -1,5 +1,6 @@
-194.49.79.157 www.growtopia1.com
-194.49.79.157 www.growtopia2.com
+38.240.49.207 www.growtopia1.com
+38.240.49.207 www.growtopia2.com
+
 
 
 
